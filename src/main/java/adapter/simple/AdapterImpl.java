@@ -1,4 +1,4 @@
-package adapter;
+package adapter.simple;
 
 public class AdapterImpl implements Adapter {
     
