@@ -2,7 +2,7 @@ package flyweight;
 
 import flyweight.symbol.FlyweightFactory;
 
-public class Run {
+public class SymbolRun {
 
     public static void main(String[] args) {
         FlyweightFactory flyweight = new FlyweightFactory();
