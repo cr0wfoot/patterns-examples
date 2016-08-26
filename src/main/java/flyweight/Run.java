@@ -1,5 +1,7 @@
 package flyweight;
 
+import flyweight.symbol.FlyweightFactory;
+
 public class Run {
 
     public static void main(String[] args) {

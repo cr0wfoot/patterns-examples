@@ -1,4 +1,4 @@
-package flyweight;
+package flyweight.symbol;
 
 public class Symbol {
     
