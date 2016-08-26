@@ -1,6 +1,6 @@
-package factorymethod.concretes.bananas;
+package factorymethod.inheritance.concretes.bananas;
 
-import factorymethod.factory.Cargo;
+import factorymethod.inheritance.factory.Cargo;
 
 public class BananasCargo extends Cargo {
 

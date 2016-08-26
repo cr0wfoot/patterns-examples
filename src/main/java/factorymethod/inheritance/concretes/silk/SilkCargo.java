@@ -1,6 +1,6 @@
-package factorymethod.concretes.silk;
+package factorymethod.inheritance.concretes.silk;
 
-import factorymethod.factory.Cargo;
+import factorymethod.inheritance.factory.Cargo;
 
 public class SilkCargo extends Cargo {
 

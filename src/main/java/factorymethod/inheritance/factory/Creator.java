@@ -1,4 +1,4 @@
-package factorymethod.factory;
+package factorymethod.inheritance.factory;
 
 public abstract class Creator {
     

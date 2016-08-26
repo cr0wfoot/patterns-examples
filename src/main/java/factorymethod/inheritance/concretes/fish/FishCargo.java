@@ -1,6 +1,6 @@
-package factorymethod.concretes.fish;
+package factorymethod.inheritance.concretes.fish;
 
-import factorymethod.factory.Cargo;
+import factorymethod.inheritance.factory.Cargo;
 
 public class FishCargo extends Cargo {
 

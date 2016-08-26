@@ -1,10 +1,10 @@
 package factorymethod;
 
-import factorymethod.concretes.bananas.BananasCreator;
-import factorymethod.concretes.fish.FishCreator;
-import factorymethod.concretes.silk.SilkCreator;
-import factorymethod.factory.Cargo;
-import factorymethod.factory.Creator;
+import factorymethod.inheritance.concretes.bananas.BananasCreator;
+import factorymethod.inheritance.concretes.fish.FishCreator;
+import factorymethod.inheritance.concretes.silk.SilkCreator;
+import factorymethod.inheritance.factory.Cargo;
+import factorymethod.inheritance.factory.Creator;
 
 public class Run {
 
